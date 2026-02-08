@@ -19,8 +19,8 @@
 
 ## 🛠 기술 스택
 
-- **Java**: 11
-- **Spring Boot**: 2.4.x
+- **Java**: 25
+- **Spring Boot**: 4.0.2
 - **Build Tool**: Gradle
 - **Template Engine**: Thymeleaf
 - **Logging**: SLF4J + Logback
